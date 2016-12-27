@@ -3,7 +3,7 @@ Simple example to test composer and dependencies. Inspired by the article [Creat
 
 # Install
 The recommended way to install is through
-[Composer](http://getcomposer.org). Since this implementation is not available at [https://packagist.org/](Packagist) (on purpose), you need to refer to the GIT repository when you include it:
+[Composer](http://getcomposer.org). Since this implementation is on purpose not available at [https://packagist.org/](Packagist), you need to refer to the GIT repository when you include it:
 
 ```
 {
